@@ -33,7 +33,7 @@ This project analyzes surface defects and scratches from tractor production line
 
 ## 📷 Screenshots
 
-*Add screenshots here if you export dashboard images from Excel*
+
 
 ---
 
